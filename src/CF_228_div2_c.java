@@ -8,7 +8,7 @@ public class CF_228_div2_c {
     /**
      * Created by Corso on 10.02.14.
      */
-
+//test
     public static int counting(int[] array) {
         int count = 0;
         boolean b;

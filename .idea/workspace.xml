@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cebb078-ec12-4f37-907c-2c13054dd6f7" name="Default" comment="" />
+    <list default="true" id="7cebb078-ec12-4f37-907c-2c13054dd6f7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CF_228_div2_e.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Codeforces.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,28 +67,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CF_228_div2_a.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CF_228_div2_a.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="13" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1620">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CF_228_div2_b.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CF_228_div2_b.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1320">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CF_228_div2_c.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CF_228_div2_c.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CF_228_div2_c.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="28" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.8442907" vertical-offset="67" max-vertical-offset="930">
+            <state line="52" column="12" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="930">
+              <folding>
+                <element signature="e#357#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CF_228_div2_e.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CF_228_div2_e.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="8" selection-start="123" selection-end="123" vertical-scroll-proportion="0.12975779" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -106,6 +102,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/CF_228_div2_c.java" />
+        <option value="$PROJECT_DIR$/src/CF_228_div2_e.java" />
       </list>
     </option>
   </component>
@@ -148,6 +145,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Codeforces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Codeforces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Codeforces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Codeforces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Codeforces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -439,7 +460,7 @@
       <workItem from="1392284312095" duration="1332000" />
       <workItem from="1392326426199" duration="252000" />
       <workItem from="1392359760169" duration="1018000" />
-      <workItem from="1392362786198" duration="53000" />
+      <workItem from="1392362786198" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <created>1392284955527</created>
@@ -453,15 +474,19 @@
       <created>1392285597630</created>
       <updated>1392285597630</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit&#10;&#10;…&#10;">
+      <created>1392362933160</created>
+      <updated>1392362933160</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2716000" />
+    <option name="totallyTimeSpent" value="3027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="973" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -476,18 +501,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -505,7 +530,8 @@
     </option>
     <MESSAGE value="First commit." />
     <MESSAGE value="Second commit.&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit.&#10;" />
+    <MESSAGE value="Second commit&#10;&#10;…&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit&#10;&#10;…&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -532,7 +558,9 @@
     <entry file="file://$PROJECT_DIR$/src/CF_228_div2_c.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="13" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="930">
-          <folding />
+          <folding>
+            <element signature="e#357#372#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -553,7 +581,9 @@
     <entry file="file://$PROJECT_DIR$/src/CF_228_div2_c.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="17" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="930">
-          <folding />
+          <folding>
+            <element signature="e#357#372#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -573,7 +603,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CF_228_div2_c.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="28" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.8442907" vertical-offset="67" max-vertical-offset="930">
+        <state line="52" column="12" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="930">
+          <folding>
+            <element signature="e#357#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CF_228_div2_e.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="8" selection-start="123" selection-end="123" vertical-scroll-proportion="0.12975779" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>

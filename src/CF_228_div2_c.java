@@ -56,5 +56,5 @@ public class CF_228_div2_c {
         }
         System.out.println(CF_228_div2_c.counting(array));
     }
-
+//test
 }
